@@ -1,0 +1,5 @@
+{
+  "name": "Grant Planning & Approval System",
+  "description": "A comprehensive web application to manage the entire lifecycle of a university grant application process, from pre-proposal to final approval, with role-based dashboards and status tracking.",
+  "requestFramePermissions": []
+}
