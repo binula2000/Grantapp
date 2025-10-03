@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
     // 👇 ADD THIS PROPERTY 👇
-    base: '/grantapp', // <-- Be sure to change this!
+    base: '/Grantapp', // <-- Be sure to change this!
 
     server: {
       port: 3000,
